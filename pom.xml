@@ -11,9 +11,9 @@
     <name>Example of basic Maven project to integrate with SonarQube</name>
 
     <properties>
-	   <sonar.host.url>http://13.250.31.103:9000</sonar.host.url>
+	   <sonar.host.url>http://13.212.39.231:9000</sonar.host.url>
 	   <sonar.login>admin</sonar.login>
-	   <sonar.password>devops1</sonar.password> 
+	   <sonar.password>Reethika@02</sonar.password> 
     </properties>
 
     <dependencies>
